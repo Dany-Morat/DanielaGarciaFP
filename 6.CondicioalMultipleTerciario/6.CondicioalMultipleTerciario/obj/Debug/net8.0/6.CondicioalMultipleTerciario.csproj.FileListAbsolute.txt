@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\bin\Debug\net8.0\6.CondicioalMultipleTerciario.exe
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\bin\Debug\net8.0\6.CondicioalMultipleTerciario.deps.json
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\bin\Debug\net8.0\6.CondicioalMultipleTerciario.runtimeconfig.json
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\bin\Debug\net8.0\6.CondicioalMultipleTerciario.dll
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\bin\Debug\net8.0\6.CondicioalMultipleTerciario.pdb
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.sourcelink.json
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.dll
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\refint\6.CondicioalMultipleTerciario.dll
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.pdb
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\6.CondicioalMultipleTerciario.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Daniela FP\DanielaGarciaFP\DanielaGarciaFP\6.CondicioalMultipleTerciario\6.CondicioalMultipleTerciario\obj\Debug\net8.0\ref\6.CondicioalMultipleTerciario.dll
